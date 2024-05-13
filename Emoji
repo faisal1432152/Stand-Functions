@@ -1,6 +1,6 @@
 
 local EgoId = {
-	[0] = true,
+	[2800377754] = true,
 }
 
 local fedId = {
